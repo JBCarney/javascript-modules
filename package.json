@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/http-server/bin/http-server"
   },
-  "author": "Brice Wilson",
-  "license": "ISC",
+  "author": "Jason Carney",
   "devDependencies": {
     "babel-cli": "^6.9.0",
     "babel-core": "^6.9.0",
